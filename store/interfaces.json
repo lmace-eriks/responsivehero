@@ -1,0 +1,6 @@
+{
+  "responsivehero": {
+    "component": "ResponsiveHero",
+    "composition": "children"
+  }
+}
